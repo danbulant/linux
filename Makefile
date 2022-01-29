@@ -3,7 +3,7 @@ VERSION = 5
 PATCHLEVEL = 17
 SUBLEVEL = 0
 EXTRAVERSION = -rc1
-NAME = Gobble Gobble
+NAME = SSPS{CYB3R_T34M}
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
